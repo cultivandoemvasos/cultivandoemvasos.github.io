@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Minhas plantas'
+permalink: /minhas_plantas
 ---
 
 Aqui vamos colocar as plantas para amostra, portfolio.
