@@ -4,6 +4,6 @@ title: 'Minhas plantas'
 permalink: /minhas_plantas
 ---
 
-Aqui vamos colocar as plantas para amostra, portfolio.
+Um pouco das plantas que cultivo em minha horta :)
 
-{% include image.html url="#" image="projects/proj-2/thumb.jpg" %}
+<!--{% include image.html url="#" image="projects/proj-2/thumb.jpg" %}-->
