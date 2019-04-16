@@ -11,8 +11,8 @@ A babosa, também conhecida como _Aloe Vera_, possui grande aplicação voltado 
 
 Caso tenha interesse em adquirir uma mudinha de babosa, entre em contato conosco através de nossa página do [Facebook](#)
 
-{% include image.html url="#" image="projects/proj-1/thumb.jpg" %}
+{% include image.html url="assets/img/projects/proj-1/thumb.jpg" image="projects/proj-1/thumb.jpg" %}
 <!--{% include image.html url="#" image="projects/proj-1/babosa_no_coco01.jpg" %}-->
 <!--{% include image.html url="#" image="projects/proj-1/babosa_no_coco02.jpg" %}-->
-{% include image.html url="#" image="projects/proj-1/babosa_01.jpg" %}
+{% include image.html url="assets/img/projects/proj-1/babosa_01.jpg" image="projects/proj-1/babosa_01.jpg" %}
 <!--{% include image.html url="#" image="projects/proj-1/babosa_02.jpg" %}-->
